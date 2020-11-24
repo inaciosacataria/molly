@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Molly</string>
+    <string name="Email_hint">Digite seu email</string>
+    <string name="password_hint">Digite a sua password</string>
+    <string name="Login">Entrar</string>
+    <string name="Criar_conta">Nao tem conta? Crie uma.</string>
+    <string name="Nome_hint">Digite seu nome</string>
+    <string name="btnCadrastrar">Criar conta!</string>
+    <string name="btnSair">Sair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="BtnPerfil">Perfil</string>
+    <string name="informacao_sobre_o_nome">Este eh o seu @molly que ficara visivel para seus amigos encontrarem com facilidade.</string>
+    <string name="permicoes_info">Para usar o app eh necessario que todas permissoes sejam aceites.</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_formar_grupo">FormarGrupoActivity</string>
+</resources>

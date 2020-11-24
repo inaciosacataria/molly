@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830646654518",
+    "firebase_url": "https://molly-a8ace.firebaseio.com",
+    "project_id": "molly-a8ace",
+    "storage_bucket": "molly-a8ace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830646654518:android:4fe6a4d4c50c75b84cea97",
+        "android_client_info": {
+          "package_name": "com.decode.molly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830646654518-nlo35btu75ceng2gn9h1nbd6fmgs6m4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.decode.molly",
+            "certificate_hash": "1079a4950dd14bc9a758a2ccc92b3022fbb195e1"
+          }
+        },
+        {
+          "client_id": "830646654518-4f4nf5s5j0jf3t0kr3dglflnuv0hssi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN7uQ4CJUzdbf7XOo6-3gPX0rzgC9q-M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830646654518-4f4nf5s5j0jf3t0kr3dglflnuv0hssi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
