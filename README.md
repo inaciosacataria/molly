@@ -3,7 +3,8 @@
 Possui alguns recursos do firebase, Auth, realtime database, storage, o que permite:
 <il>
   * Trocar mensagens no privado, ou em grupo;
-  * Enviar Photos.
+  * Enviar Photos;
+  * Ver anuncios.
   </il>
 
 # Screenshots
